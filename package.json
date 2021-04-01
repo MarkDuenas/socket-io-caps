@@ -1,0 +1,26 @@
+{
+  "name": "socket-io-caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^5.5.2",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkDuenas/socket-io-caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkDuenas/socket-io-caps/issues"
+  },
+  "homepage": "https://github.com/MarkDuenas/socket-io-caps#readme"
+}
